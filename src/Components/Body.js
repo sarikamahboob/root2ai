@@ -3,7 +3,7 @@ import React from "react";
 const Body = () => {
   return (
     <div>
-      <div class="hero min-h-screen bg-base-200">
+      <div class="hero bg-base-200 py-10">
         <div class="hero-content text-center">
           <div class="max-w-md">
             <h1 class="text-5xl font-bold">About Us</h1>
